@@ -1,4 +1,4 @@
-# 🧠 Sudoku Solver with CSP, MRV & LCV Heuristics
+# 🧠 Sudoku Solver with CSP: MRV & LCV Heuristics
 
 A JavaScript-based Sudoku solver using Constraint Satisfaction Problem (CSP) techniques. It supports optional heuristics like **Minimum Remaining Values (MRV)** and **Least Constraining Value (LCV)** to improve performance. the **Degree** heuristic isnt work here because we have a graph with degree 3 for all nodes. means all cells are equal
 
